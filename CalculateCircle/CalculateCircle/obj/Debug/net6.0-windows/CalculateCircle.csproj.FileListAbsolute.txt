@@ -1,0 +1,17 @@
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\bin\Debug\net6.0-windows\CalculateCircle.exe
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\bin\Debug\net6.0-windows\CalculateCircle.deps.json
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\bin\Debug\net6.0-windows\CalculateCircle.runtimeconfig.json
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\bin\Debug\net6.0-windows\CalculateCircle.dll
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\bin\Debug\net6.0-windows\CalculateCircle.pdb
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.Form1.resources
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.AssemblyInfo.cs
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.dll
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\refint\CalculateCircle.dll
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.pdb
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\CalculateCircle.genruntimeconfig.cache
+C:\Users\alper\source\repos\CalculateCircle\CalculateCircle\obj\Debug\net6.0-windows\ref\CalculateCircle.dll

@@ -1,0 +1,17 @@
+C:\Users\alper\source\repos\BMICalc\BMICalc\bin\Debug\net6.0-windows\BMICalc.exe
+C:\Users\alper\source\repos\BMICalc\BMICalc\bin\Debug\net6.0-windows\BMICalc.deps.json
+C:\Users\alper\source\repos\BMICalc\BMICalc\bin\Debug\net6.0-windows\BMICalc.runtimeconfig.json
+C:\Users\alper\source\repos\BMICalc\BMICalc\bin\Debug\net6.0-windows\BMICalc.dll
+C:\Users\alper\source\repos\BMICalc\BMICalc\bin\Debug\net6.0-windows\BMICalc.pdb
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.csproj.AssemblyReference.cache
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.Form1.resources
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.AssemblyInfo.cs
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.dll
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\refint\BMICalc.dll
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.pdb
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\BMICalc.genruntimeconfig.cache
+C:\Users\alper\source\repos\BMICalc\BMICalc\obj\Debug\net6.0-windows\ref\BMICalc.dll

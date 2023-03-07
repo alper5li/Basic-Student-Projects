@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Tx8TchiPMvfz5nn/2yVJhX9uqnG4BrjAJ/X66E0OK475wiiID7oxilX0x5tmhzXzFDnJaid5SmCT1W71cey7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alper\\Desktop\\Masaüstü\\Projeler\\proje\\proje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\dotliquid\\2.2.656\\dotliquid.2.2.656.nupkg.sha512"
+  ],
+  "logs": []
+}

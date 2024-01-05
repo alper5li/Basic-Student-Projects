@@ -16,28 +16,21 @@ public class Student {
         this.grade = grade;
         this.stClass=stClass;
     }
-
     public String getFirstName() {
         return fname;
     }
-
     public String getLastName() {
         return lname;
     }
-
     public String getID() {
         return id;
     }
-
     public double getPercentage() {
         return percentage;
     }
-
     public String getGrade() {
         return grade;
     }
-
-
     public String getStClass(){return stClass;}
 
 

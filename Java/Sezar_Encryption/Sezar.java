@@ -1,6 +1,6 @@
 
 public class Sezar {
-	public String alphabet = " abcçdefgðhýijklmnoöpqrsþtuüvwxyzABCÇDEFGÐHIÝJKLMNOÖPQRSÞTUÜVWXYZ";
+	public String alphabet = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	//                        (mod65) with space 
 	public void Encrypt(String text,int key) 
 	{
